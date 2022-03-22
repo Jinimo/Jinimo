@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E3CEF6,100:4B088A&height=300&section=header&text=Hyunjin&fontColor=F7F8E0&fontSize=70)
 
 
 ### Hi, there 👋 I'm Jin.
