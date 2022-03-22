@@ -16,3 +16,5 @@ I love coding 💓
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinimo&exclude_repo=github-readme-stats,Jinimo.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinimo&hide=python)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinimo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
