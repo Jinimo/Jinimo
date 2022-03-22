@@ -1,4 +1,4 @@
-### Hi, there 👋 I'm Eric.
+### Hi, there 👋 I'm Jin.
 I love coding 💓
 
 ### About Me
