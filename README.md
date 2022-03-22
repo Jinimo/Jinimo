@@ -7,15 +7,6 @@ I love coding 💓
 ---
 
 
-![Jinimo's github stats](https://github-readme-stats.vercel.app/api?username=Jinimo)
-
-![Jinimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinimo&hide=contribs,prs)
-
-
-![Jinimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinimo&count_private=true)
-
-![Jinimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinimo&show_icons=true)
-
 ![Jinimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinimo&show_icons=true&theme=midnight-purple)
 
 ![Jinimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinimo&show_icons=true&theme=material-palenight)
