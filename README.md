@@ -1,11 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E3CEF6,100:4B088A&height=300&section=header&text=Hyunjin&fontColor=F7F8E0&fontSize=70)
+<h2 align="center"> ☾⋆⁺₊⋆💜 Skills 💜☾⋆⁺₊⋆ </h2>
+
+<h3 align="center"> Platforms & Languages </h3>
+<p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></p>
+
+<h3 align="center"> Tools </h3>
 
 
-### Hi, there 👋 I'm Hyunjin.
-I love coding 💓
-
-### About Me
-- Blog: [My Github Blog](https://Jinimo.github.io.)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:E3CEF6,100:4B088A&height=200&section=footer)
+<h2 align="center"> ⋆｡ﾟ✶°🤍 contact to me 🤍⋆｡ﾟ✶° </h2>
+
+<p align="center"><a href="https://Jinimo.github.io."><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://Jinimo.github.io."/></a>  
+  <a href="sdc36625110@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sdc36625110@gmail.com"/></a></p>
